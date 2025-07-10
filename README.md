@@ -4,7 +4,7 @@
 ## **Hi, I'm Mansha! 👋**
 A Creative Web Developer and Computer Science Enthusiast, passionate about building intuitive user experiences and leveraging AI for smart solutions.
 
-<img src="https://github.com/user-attachments/assets/6efb7258-1577-438d-8995-bbbbaae55068" width="400" height="200">
+<img src="https://github.com/user-attachments/assets/3d384179-5171-40ab-bfa5-72e02a8b4e5a" width="400" height="200">
 
 
 
